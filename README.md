@@ -68,3 +68,4 @@ medication administration in hospitals. The study has carried out the system to 
 help professionals avoid human error and achieve system security through evidence. This case study
 will be focused on in the next section where the Business Canvas model will come in and look at RFID
 as a solution.(Yen,Lo & Wo,2012)
+![Internet-Of-Things](https://user-images.githubusercontent.com/14542118/95399904-968b4f80-0909-11eb-848f-9f4fa094d3bc.png)
