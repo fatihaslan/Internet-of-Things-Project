@@ -25,3 +25,5 @@ an intelligent and smart healthcare that activates technologies and methods in t
 smart devices. These important points and factors will be presented and designed in the next
 section. In addition, there will be a section where we focusing privacy and security with the IOT
 technology
+
+![sdas](https://user-images.githubusercontent.com/14542118/95399800-4ca26980-0909-11eb-9987-1306033a8647.jpg)
